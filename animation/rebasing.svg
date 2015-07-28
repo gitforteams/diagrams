@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1000px"
+height="800px"
+viewBox="10 0 300 300"
+preserveAspectRatio="xMidYMid meet"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+  <style type="text/css"><![CDATA[   ]]></style>
+
+  <marker id='head' orient='auto' markerWidth='2' markerHeight='8' refX='0.1' refY='2'>
+    <path d='M0,0 V4 L2,2 Z' fill='gray' />
+  </marker>
+</defs>
+
+<text x="10" y="40" font-size="200%">
+Interactive Rebasing:
+</text>
+
+<text x="10" y="60">
+squash working commits into a whole idea
+</text>
+
+<line x1="0" y1="230"
+    x2="0" y2="70"
+    stroke="gray"
+    stroke-width="1"
+    marker-end="url(#head)" />
+
+<text id="time-axis"
+    x="10" y="180"
+    transform="rotate(-90 -5,180)"
+    font-size="50%"
+    fill="gray">
+  commits over time
+</text>
+
+<line x1="20" y1="70" 
+    x2="20" y2="230" 
+    stroke="black" 
+    stroke-width="2"/>
+
+<text id="message-final" x="40" y="95" opacity="0">
+  <animate attributeType="CSS" attributeName="opacity"
+    from="0"
+    to="1"
+    dur="1s"
+    begin="7s"
+    fill="freeze" />
+    [#348] Add function to animate command
+</text>
+
+<g opacity="0">
+<circle id="commit1" r="10" cx="20" cy="210" fill="orange" opacity="0.7"/>
+<text id="message1" x="40" y="215">
+  Function added. Not yet tested.
+</text>
+<animate attributeType="CSS" attributeName="opacity"
+  from="0"
+  to="1"
+  dur="1s"
+  begin="1s"
+  fill="freeze" />
+</g>
+
+<g opacity="0">
+<circle id="commit2" r="10" cx="20" cy="180" fill="yellow" opacity="0.7"/>
+<text id="message2" x="40" y="185">
+  Missing parameter.
+</text>
+<animate attributeType="CSS" attributeName="opacity"
+  from="0"
+  to="1"
+  dur="1s"
+  begin="2s"
+  fill="freeze" />
+</g>
+
+<g opacity="0">
+<circle id="commit3" r="10" cx="20" cy="150" fill="blue" opacity="0.7"/>
+<text id="message3" x="40" y="155">
+  Uggh.
+</text>
+<animate attributeType="CSS" attributeName="opacity"
+  from="0"
+  to="1"
+  dur="1s"
+  begin="3s"
+  fill="freeze" />
+</g>
+
+<g opacity="0">
+<circle id="commit4" r="10" cx="20" cy="120" fill="red" opacity="0.7"/>
+<text id="message4" x="40" y="125">
+  Fixing typo.
+<animate attributeType="CSS" attributeName="opacity"
+  from="0"
+  to="1"
+  dur="1s"
+  begin="3s"
+  fill="freeze" />
+</text>
+
+<animate attributeType="CSS" attributeName="opacity"
+  from="0"
+  to="1"
+  dur="1s"
+  begin="4s"
+  fill="freeze" />
+</g>
+
+<animate
+    xlink:href="#commit1"
+    attributeName="cy"
+    to="90"
+    dur="3s"
+    begin="5s"
+    fill="freeze" 
+    repeatCount="1"
+    id="commit1-anim" />
+  
+<animate
+    xlink:href="#message1"
+    attributeType="CSS" attributeName="opacity"
+    from="1"
+    to="0"
+    dur="2.5s"
+    begin="5s"
+    fill="freeze" />
+
+<animate 
+    xlink:href="#commit2"
+    attributeName="cy" 
+    to="90"
+    dur="3s"
+    begin="5s"
+    fill="freeze" 
+    repeatCount="1"
+    id="commit2-anim" />
+
+<animate
+    xlink:href="#message2"
+    attributeType="CSS" attributeName="opacity"
+    from="1"
+    to="0"
+    dur="2.5s"
+    begin="5s"
+    fill="freeze" />
+
+<animate 
+    xlink:href="#commit3"
+    attributeName="cy" 
+    to="90" 
+    dur="3s"
+    begin="5s"
+    fill="freeze" 
+    repeatCount="1"
+    id="commit3-anim" />
+
+<animate xlink:href="#message3"
+    attributeType="CSS" attributeName="opacity"
+    from="1"
+    to="0"
+    dur="2.5s"
+    begin="5s"
+    fill="freeze" 
+    id="message3-anim" />
+
+<animate 
+    xlink:href="#commit4"
+    attributeName="cy" 
+    to="90" 
+    dur="3s"
+    begin="5s"
+    fill="freeze" 
+    repeatCount="1"
+    id="commit4-anim" />
+
+<animate xlink:href="#message4"
+    attributeType="CSS" attributeName="opacity"
+    from="1"
+    to="0"
+    dur="2.5s"
+    begin="5s"
+    fill="freeze" 
+    id="message4-anim" />
+
+</svg>

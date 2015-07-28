@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="7in"
+   width="4.8in"
+   version="1.1"
+   viewBox="0 0 432.00002 630.00001"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="11fig22-shared-access.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1347"
+     inkscape:window-height="804"
+     id="namedview4327"
+     showgrid="false"
+     inkscape:zoom="1.5466558"
+     inkscape:cx="216.00001"
+     inkscape:cy="465.73624"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g10029" />
+  <defs
+     id="defs4">
+    <marker
+       id="Arrow2Lend"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         fill-rule="evenodd"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+    <marker
+       id="Arrow2Lend-3"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440-7"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         fill-rule="evenodd"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+    <marker
+       id="Arrow2Lend-8-0"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440-4-5"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         fill-rule="evenodd"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+    <marker
+       id="Arrow2Lend-8-0-6"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440-4-5-7"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         fill-rule="evenodd"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+    <marker
+       id="Arrow2Lend-3-3"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440-7-2"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         stroke-opacity=".63462"
+         fill-rule="evenodd"
+         fill-opacity=".63462"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0 -422.36)">
+    <g
+       id="g3505"
+       transform="translate(36.429 -84.143)">
+      <ellipse
+         id="path4337"
+         rx="115.38"
+         ry="89.538"
+         cy="609.42"
+         cx="216.18"
+         fill="#e6e6e6" />
+      <text
+         id="text4401"
+         style="word-spacing:0px;letter-spacing:0px"
+         line-height="125%"
+         font-size="14.168px"
+         y="540.70581"
+         x="196.42084"
+         font-family="Sans"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan4405"
+           font-size="11.25px"
+           font-stretch="condensed"
+           y="540.70581"
+           x="196.42084"
+           font-family="'Myriad Pro'">Bitbucket</tspan></text>
+    </g>
+    <g
+       id="g10029"
+       transform="matrix(1.2337 0 0 1 12.027 -66.417)">
+      <ellipse
+         id="path4337-3-6"
+         rx="85.571"
+         ry="64.643"
+         cy="597.94"
+         cx="195.43"
+         fill="#fff" />
+      <text
+         id="text10025"
+         style="font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';letter-spacing:0px;word-spacing:0px;fill:#000000"
+         font-size="11.25px"
+         font-stretch="condensed"
+         line-height="125%"
+         y="554.2431"
+         x="171.87022"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan10027"
+           font-size="10.128px"
+           y="554.2431"
+           x="171.87022"
+           style="font-size:10.12800026px">Project Repository</tspan></text>
+    </g>
+    <path
+       id="path4413"
+       marker-end="url(#Arrow2Lend)"
+       d="m174.11 541.3c-29.442 44.054-19.664 85.036 37.182 167.98"
+       stroke="#000"
+       stroke-width="1px"
+       fill="none" />
+    <path
+       id="path4413-0"
+       marker-end="url(#Arrow2Lend-3)"
+       d="m246.43 728.14c63.994-26.063 124.15-136.22 84.588-187.45"
+       stroke="#000"
+       stroke-width="1px"
+       fill="none" />
+    <text
+       id="text4401-0"
+       style="word-spacing:0px;letter-spacing:0px"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="619.37762"
+       x="165.86888"
+       font-family="Sans"
+       line-height="125%"
+       fill="#000000"><tspan
+         id="tspan4405-2"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="619.37762"
+         x="165.86888"
+         font-family="'Myriad Pro'">clone</tspan></text>
+    <text
+       id="text4401-0-3"
+       style="word-spacing:0px;letter-spacing:0px"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="617.10736"
+       x="316.80829"
+       font-family="Sans"
+       line-height="125%"
+       fill="#000000"><tspan
+         id="tspan4405-2-2"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="617.10736"
+         x="316.80829"
+         font-family="'Myriad Pro'">push</tspan></text>
+    <g
+       id="g3505-4-3"
+       transform="translate(8.8405 182.47)">
+      <ellipse
+         id="path4337-3-5"
+         rx="28.571"
+         ry="26.071"
+         cy="554.15"
+         cx="212.14"
+         fill="#e6e6e6" />
+      <text
+         id="text4401-3-6"
+         style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+         line-height="125%"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="549.87842"
+         x="211.61417"
+         font-family="'Myriad Pro'"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan4405-7-1"
+           style="text-anchor:middle;text-align:center"
+           y="549.87842"
+           x="211.61417">Local</tspan><tspan
+           id="tspan3907-5"
+           style="text-anchor:middle;text-align:center"
+           y="563.94092"
+           x="211.61417">Repository</tspan></text>
+    </g>
+    <path
+       id="path4413-1-2"
+       marker-end="url(#Arrow2Lend-8-0)"
+       d="m100.23 766.24s45.654 18.669 97.036-9.4621"
+       stroke="#000"
+       stroke-width="1px"
+       fill="none" />
+    <text
+       id="text4401-0-5"
+       style="word-spacing:0px;letter-spacing:0px"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="715.28064"
+       x="117.24853"
+       font-family="Sans"
+       line-height="125%"
+       fill="#000000"><tspan
+         id="tspan4405-2-6"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="715.28064"
+         x="117.24853"
+         font-family="'Myriad Pro'">checkout</tspan></text>
+    <path
+       id="path4413-1-2-8"
+       marker-end="url(#Arrow2Lend-8-0-6)"
+       d="m187.56 722.31c-20.452-9.9062-64.506-4.3032-82.299 13.04"
+       stroke="#000"
+       stroke-width="1px"
+       fill="none" />
+    <path
+       id="path4413-0-4"
+       marker-end="url(#Arrow2Lend-3-3)"
+       d="m297.19 545.64c-23.787 18.697-72.797 22.458-87.767-1.7461"
+       stroke-opacity=".63462"
+       stroke="#000"
+       stroke-dasharray="2, 2"
+       fill="none" />
+    <g
+       id="g4380-6"
+       transform="matrix(.49709 0 0 .49709 229.89 518.14)">
+      <path
+         id="path3350-6"
+         d="m-356.8 449.92c-39.188-52.404 11.152-101.76 62.618-69.422 29.761 22.885 20.086 65.278-4.68 74.619-16.252 6.1294-37.019 22.777-57.938-5.1969z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width=".68521px"
+         fill="#1a1a1a" />
+      <ellipse
+         id="path3340-3"
+         rx="30.636"
+         ry="30.078"
+         cy="419.71"
+         cx="-324.58"
+         fill="#ccc" />
+      <path
+         id="path3348-2"
+         d="m-365.57 544.19s47.496-2.4163 96.98 0.14794l-32.374-95.568c-31.247 18.837-42.606 2.0842-42.606 2.0842z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width=".42614px"
+         fill="#999" />
+      <path
+         id="path4156-7"
+         d="m-360.7 405.89c3.7303 3.4068 8.3957 5.7793 13.346 6.7868 7.4334 1.5129 15.112-0.0272 22.698 0.024 3.7649 0.0254 7.5152 0.44456 11.276 0.63036 8.989 0.44414 18.043-0.45472 26.769-2.6576-1.1799-8.6269-5.4424-16.8-11.841-22.705-6.3989-5.905-14.887-9.4986-23.581-9.9832-8.5828-0.47843-17.305 2.0741-24.275 7.1045-6.9706 5.0304-12.141 12.503-14.392 20.8z"
+         fill-rule="evenodd"
+         fill="#1a1a1a" />
+      <ellipse
+         id="path4185-15"
+         rx="3.1239"
+         ry="2.7903"
+         cy="418.16"
+         cx="-332.45"
+         fill="#2b0000" />
+      <path
+         id="path4250-2"
+         d="m-335.63 424.55s2.308 10.064 8.9157 10.479c6.7604 0.4246 12.771-9.3463 12.771-9.3463"
+         stroke="#000"
+         stroke-width=".36574px"
+         fill="none" />
+      <ellipse
+         id="path4185-0-1"
+         rx="3.1239"
+         ry="2.7903"
+         cy="418.08"
+         cx="-319.64"
+         fill="#2b0000" />
+      <path
+         id="path4250-5-2"
+         d="m-331.16 422.23s0.81097 3.3534 3.1328 3.4917c2.3755 0.14147 4.4875-3.1142 4.4875-3.1142"
+         stroke="#000"
+         stroke-width=".12514px"
+         fill="none" />
+    </g>
+    <g
+       fill="#000000"
+       id="g4311">
+      <text
+         id="text4401-0-9-4"
+         style="word-spacing:0px;letter-spacing:0px"
+         xml:space="preserve"
+         font-size="14.168px"
+         y="794.00256"
+         x="143.58084"
+         font-family="Sans"
+         line-height="125%"><tspan
+           id="tspan4405-2-1-3"
+           font-size="11.25px"
+           font-stretch="condensed"
+           y="794.00256"
+           x="143.58084"
+           font-family="'Myriad Pro'">commit</tspan></text>
+      <text
+         id="text6524"
+         style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+         xml:space="preserve"
+         font-size="11.25px"
+         font-stretch="condensed"
+         line-height="125%"
+         y="573.97705"
+         x="258.95511"
+         font-family="'Myriad Pro'"><tspan
+           id="tspan6528"
+           x="258.95511"
+           y="573.97705">pull request via the web interface</tspan></text>
+      <text
+         id="text4511"
+         style="word-spacing:0px;letter-spacing:0px"
+         xml:space="preserve"
+         font-size="11.25px"
+         font-stretch="condensed"
+         line-height="125%"
+         y="628.49475"
+         x="494.34384"
+         font-family="'Myriad Pro'"><tspan
+           id="tspan4513"
+           x="494.34384"
+           y="628.49475" /></text>
+    </g>
+    <g
+       id="g4600"
+       transform="translate(130.86 -21.286)">
+      <rect
+         id="rect4555"
+         ry="0"
+         height="20"
+         width="55.714"
+         stroke="#000"
+         y="541.65"
+         x="25.714"
+         fill="#fff" />
+      <text
+         id="text4587"
+         style="word-spacing:0px;letter-spacing:0px"
+         font-size="11.25px"
+         font-stretch="condensed"
+         line-height="125%"
+         y="555.04535"
+         x="41.338108"
+         font-family="'Myriad Pro'"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan4589"
+           y="555.04535"
+           x="41.338108">master</tspan></text>
+    </g>
+    <g
+       id="g4595"
+       transform="translate(253.71 -70.571)">
+      <rect
+         id="rect4555-2"
+         ry="0"
+         height="20"
+         width="55.714"
+         stroke="#000"
+         y="592.36"
+         x="22.143"
+         fill="#fff" />
+      <text
+         id="text4591"
+         style="word-spacing:0px;letter-spacing:0px"
+         font-size="11.25px"
+         font-stretch="condensed"
+         line-height="125%"
+         y="606.25464"
+         x="37.776436"
+         font-family="'Myriad Pro'"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan4593"
+           y="606.25464"
+           x="37.776436">feature</tspan></text>
+    </g>
+  </g>
+</svg>

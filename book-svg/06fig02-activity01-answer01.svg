@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.8000002in"
+   height="7in"
+   viewBox="0 0 432.00002 630.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="06fig02-activity01-answer01.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.1811 : 1"
+       inkscape:vp_y="0 : 999.99999 : 0"
+       inkscape:vp_z="744.09452 : 526.1811 : 1"
+       inkscape:persp3d-origin="372.04726 : 350.7874 : 1"
+       id="perspective5889" />
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4440"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4158"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3354"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4158-7"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4440-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-2"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path4440-3"
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 -6e-7,8.0354 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-2-2"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path4440-3-8"
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 -6e-7,8.0354 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-2-2-7"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path4440-3-8-2"
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 -6e-7,8.0354 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-2-2-7-6"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path4440-3-8-2-4"
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 -6e-7,8.0354 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="210.0143"
+     inkscape:cy="548.48024"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1113"
+     inkscape:window-height="823"
+     inkscape:window-x="905"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="in"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-422.36215)">
+    <g
+       id="g3505"
+       transform="translate(-32.142856,-12.857142)"
+       style="fill:#f9f9f9">
+      <path
+         style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         d="m 219.28516,15.357422 a 75.714287,41.785713 0 0 0 -42.55078,7.271484 68.571426,41.785713 0 0 1 31.83789,35.228516 68.571426,41.785713 0 0 1 -29.95313,34.478516 75.714287,41.785713 0 0 0 40.66602,6.591796 A 75.714287,41.785713 0 0 0 295,57.142578 75.714287,41.785713 0 0 0 219.28516,15.357422 Z M 178.61914,92.335938 A 75.714287,41.785713 0 0 1 143.57227,57.142578 75.714287,41.785713 0 0 1 176.73438,22.628906 68.571426,41.785713 0 0 0 140,16.072266 68.571426,41.785713 0 0 0 71.427734,57.857422 68.571426,41.785713 0 0 0 140,99.642578 a 68.571426,41.785713 0 0 0 38.61914,-7.30664 z"
+         id="path4337"
+         inkscape:connector-curvature="0"
+         transform="translate(64.285713,498.79072)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4401"
+         y="550.58521"
+         x="173.27464"
+         style="font-style:normal;font-weight:normal;font-size:14.16750717px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25000095px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Condensed';text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan4405"
+           y="550.58521"
+           x="173.27464"
+           sodipodi:role="line">older, correct</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25000095px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Condensed';text-align:center;text-anchor:middle;fill:#000000"
+           y="564.64771"
+           x="173.27464"
+           sodipodi:role="line"
+           id="tspan5058">version of the file</tspan></text>
+    </g>
+    <g
+       id="g4238"
+       transform="translate(67.935149,33.453278)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4401-0-7-7"
+         y="519.0318"
+         x="207.61179"
+         style="font-style:normal;font-weight:normal;font-size:14.16750717px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25000095px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Condensed';text-align:center;text-anchor:middle"
+           id="tspan4405-2-4-5"
+           y="519.0318"
+           x="207.61179"
+           sodipodi:role="line">bad edits you</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25000095px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Condensed';text-align:center;text-anchor:middle"
+           y="533.0943"
+           x="207.61179"
+           sodipodi:role="line"
+           id="tspan5056">want to remove</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="156.05411"
+       y="482.80106"
+       id="text4232"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4234"
+         x="156.05411"
+         y="482.80106" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="33.571426"
+       y="449.505"
+       id="text4295"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4297"
+         x="33.571426"
+         y="449.505" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="283.57144"
+       y="452.36215"
+       id="text4299"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4301"
+         x="283.57144"
+         y="452.36215" /></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;marker-end:url(#Arrow2Lend-2-2-7)"
+       id="path4413-7-3"
+       d="m 133.74799,506.33145 c -62.747929,-77.946 184.84357,-118.31491 153.91285,-3.19328"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5048"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'Myriad Pro';font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Myriad Pro, Condensed';font-stretch:condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion5050"><rect
+           id="rect5052"
+           width="0"
+           height="18.571428"
+           x="218.57143"
+           y="60" /></flowRegion><flowPara
+         id="flowPara5054"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="205.73973"
+       y="450.2193"
+       id="text5060"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="205.73973"
+         y="450.2193"
+         id="tspan5103">copy correct version of a file</tspan><tspan
+         sodipodi:role="line"
+         x="205.73973"
+         y="464.2818"
+         id="tspan5107">from the repository</tspan><tspan
+         sodipodi:role="line"
+         x="205.73973"
+         y="478.3443"
+         id="tspan5066">to the working directory:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="142.14285"
+       y="515.93359"
+       id="text5089"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5091"
+         x="142.14285"
+         y="515.93359">repository</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="185.71428"
+       y="542.36218"
+       id="text5093"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5095"
+         x="185.71428"
+         y="542.36218">staging area</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="229.28572"
+       y="517.36218"
+       id="text5097"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5099"
+         x="229.28572"
+         y="517.36218">working directory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="163.42857"
+       y="498.2193"
+       id="text5109"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5111"
+         x="163.42857"
+         y="498.2193">checkout -- &lt;filename&gt;</tspan></text>
+  </g>
+</svg>

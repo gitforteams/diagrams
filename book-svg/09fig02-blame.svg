@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="7in" width="4.8in" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 432.00002 630.00001">
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -422.36)">
+  <g stroke="#000" fill="#f9f9f9">
+   <rect id="rect15242-2-0" ry="6.4286" height="33.571" width="267.14" y="580.22" x="6.7857"/>
+   <rect id="rect15242-2" ry="6.4286" height="21.429" width="267.86" y="542.72" x="6.4286"/>
+   <rect id="rect15242" ry="6.4286" height="53.571" width="270.71" y="441.65" x="5"/>
+  </g>
+  <g font-size="11.25px" font-family="&apos;Myriad Pro&apos;" font-stretch="condensed" fill="#000000">
+   <text id="text8882" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="588.79071" x="257.14285"><tspan id="tspan8884" x="257.14285" y="588.79071"/></text>
+   <text id="text15198" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="150%" y="456.64789" x="10"><tspan id="tspan15200" y="456.64789" x="10" line-height="150%">3e524e0b</tspan><tspan id="tspan15202" y="473.52289" x="10" line-height="150%">3e524e0b</tspan><tspan id="tspan15244" y="490.39789" x="10" line-height="150%">3e524e0b</tspan><tspan id="tspan15206" y="507.27289" x="10" line-height="150%">8baf4735</tspan><tspan id="tspan15208" y="524.14789" x="10" line-height="150%">7f2550a8</tspan><tspan id="tspan15210" y="541.02289" x="10" line-height="150%">8baf4735</tspan><tspan id="tspan15212" y="557.89789" x="10" line-height="150%">3e524e0b</tspan><tspan id="tspan15214" y="574.77289" x="10" line-height="150%">8baf4735</tspan><tspan id="tspan15216" y="591.64789" x="10" line-height="150%">3e524e0b</tspan><tspan id="tspan15218" y="608.52289" x="10" line-height="150%">3e524e0b</tspan></text>
+   <text id="text15220" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="150%" y="455.93359" x="68"><tspan id="tspan15222" y="455.93359" x="68" line-height="150%">4)               [partintro]</tspan><tspan id="tspan15224" y="472.80859" x="68" line-height="150%">5)                --</tspan><tspan id="tspan15226" y="489.68359" x="68" line-height="150%">6)                This section approaches the commands in Git</tspan><tspan id="tspan15228" y="506.55859" x="68" line-height="150%">7)</tspan><tspan id="tspan15230" y="523.43359" x="68" line-height="150%">8)                Hands-on activities are sprinkled throughout ...</tspan><tspan id="tspan15232" y="540.30859" x="68" line-height="150%">9)</tspan><tspan id="tspan15234" y="557.18359" x="68" line-height="150%">10)              This section is divided into the following ...</tspan><tspan id="tspan15236" y="574.05859" x="68" line-height="150%">11)</tspan><tspan id="tspan15238" y="590.93359" x="68" line-height="150%">12)               * &lt;&lt;ch05&gt;&gt; covers the basics of distributed ...</tspan><tspan id="tspan15240" y="607.80859" x="68" line-height="150%">13)               * &lt;&lt;ch06&gt;&gt; allows you to explore history re ...</tspan></text>
+  </g>
+  <g stroke="#000" stroke-width="1px" fill="none">
+   <path id="path15278" d="m277.14 458.08c24.731 9.552 34.074-8.6188 40 17.857"/>
+   <path id="path15280" d="m276.43 552.36c18.744-5.7798 37.784-41.978 41.429-61.429"/>
+   <path id="path15282" d="m275 598.79c20.59-22.61 47.45-81.71 43.15-107.6"/>
+  </g>
+  <g font-size="11.25px" font-family="&apos;Myriad Pro&apos;" font-stretch="condensed" fill="#000000">
+   <text id="text15284" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="486.07639" x="281.85715"><tspan id="tspan15286" x="281.85715" y="486.07639">lines modified as part of the same commit</tspan></text>
+   <text id="text15288" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="437.14783" x="9.1428566"><tspan id="tspan15290" x="9.1428566" y="437.14783">commit id</tspan></text>
+   <text id="text15292" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="437.14783" x="53.14286"><tspan id="tspan15294" x="53.14286" y="437.14783">line number</tspan></text>
+   <text id="text15296" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="437.14783" x="100.42857"><tspan id="tspan15298" x="100.42857" y="437.14783">text at that line</tspan></text>
+  </g>
+ </g>
+</svg>

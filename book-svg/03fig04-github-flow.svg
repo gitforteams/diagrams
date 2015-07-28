@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="7in" width="4.8in" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 432.00002 630.00001" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <marker id="Arrow2Lend-8-0-0-7" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-7" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-5" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-7-6" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-5-3" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-6" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-7" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-6-2" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-7-3" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-1-1" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-1-7" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-1-1-6" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-1-7-3" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-1-1-9" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-1-7-8" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <pattern id="pattern34205" xlink:href="#Strips1_1-5" patternTransform="matrix(10 0 0 10 -.71430 -86.266)"/>
+  <pattern id="Strips1_1-5" height="1" width="2" patternUnits="userSpaceOnUse" patternTransform="translate(0) scale(10)">
+   <rect id="rect33479-7" height="2" width="1" y="-.5" x="0"/>
+  </pattern>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-6-2-4-9" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-7-3-8-5" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-6-5" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-7-1" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-6-5-8" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-7-1-5" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-6-2-7" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-7-3-7" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <pattern id="pattern40103" xlink:href="#Strips1_1" patternTransform="matrix(10 0 0 10 -.29227 -41.961)"/>
+  <pattern id="Strips1_1" height="1" width="2" patternUnits="userSpaceOnUse" patternTransform="translate(0) scale(10)">
+   <rect id="rect33479" height="2" width="1" y="-.5" x="0"/>
+  </pattern>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-6-5-9-0" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-7-1-2-7" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-6-5-9-3" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-7-1-2-9" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-8-0-0-7-6-9-6-5-8-3" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-4-5-3-5-9-5-7-1-5-9" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <pattern id="pattern40103-6" xlink:href="#Strips1_1-4" patternTransform="matrix(10 0 0 10 .42201 -1.9608)"/>
+  <pattern id="Strips1_1-4" height="1" width="2" patternUnits="userSpaceOnUse" patternTransform="translate(0) scale(10)">
+   <rect id="rect33479-5" height="2" width="1" y="-.5" x="0"/>
+  </pattern>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -422.36)">
+  <g id="g17235" transform="translate(-270.14 14.695)">
+   <path id="path4413-1-2-6-8" marker-end="url(#Arrow2Lend-8-0-0-7)" d="m308.22 717.66 1.1445-266.09" stroke="#000" stroke-width="1px" fill="none"/>
+   <g>
+    <circle id="path17044-3" cy="703.43" cx="308.28" r="8.5863" fill="#999"/>
+    <circle id="circle17050-6" cx="309.29" cy="495.93" r="8.5863" fill="#999"/>
+    <text id="text17090-43" style="word-spacing:0px;letter-spacing:0px" font-size="11.25px" font-stretch="condensed" line-height="125%" y="447.19409" x="297.05237" font-family="&apos;Myriad Pro&apos;" xml:space="preserve" fill="#000000"><tspan id="tspan17092-0" y="447.19409" x="297.05237">master</tspan></text>
+   </g>
+  </g>
+  <g id="g17235-1" transform="translate(-104.06 14.25)">
+   <path id="path4413-1-2-6-8-3" marker-end="url(#Arrow2Lend-8-0-0-7-6)" d="m309.74 598.95-0.32-147.64" stroke="#000" stroke-width=".80561px" fill="none"/>
+   <g>
+    <text id="text17090-43-4" style="word-spacing:0px;letter-spacing:0px" font-size="11.25px" font-stretch="condensed" line-height="125%" y="447.19409" x="290.27872" font-family="&apos;Myriad Pro&apos;" xml:space="preserve" fill="#000000"><tspan id="tspan17092-0-3" y="447.19409" x="290.27872">integration</tspan></text>
+    <flowRoot id="flowRoot17352" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="11.25px" transform="translate(142.5 412.36)" font-stretch="condensed" line-height="125%" font-family="&apos;Myriad Pro&apos;" fill="#000000"><flowRegion id="flowRegion17354"><rect id="rect17356" y="21.429" width="42.143" x="147.86" height="248.57"/></flowRegion><flowPara id="flowPara17358"/></flowRoot>
+    <g stroke="#000">
+     <circle id="circle17048-5-2" cy="495.24" cx="308.93" r="8.5863" fill="url(#pattern34205)"/>
+     <circle id="circle17048-5" cy="539.54" cx="309.35" r="8.5863" fill="url(#pattern40103)"/>
+     <circle id="circle17048-5-4" cy="579.54" cx="310.06" r="8.5863" fill="url(#pattern40103-6)"/>
+    </g>
+   </g>
+  </g>
+  <g id="g17235-3" transform="translate(-30.136 14.25)">
+   <path id="path4413-1-2-6-8-4" marker-end="url(#Arrow2Lend-8-0-0-7-7)" d="m307.96 650.13 1.1445-198.56" stroke="#000" stroke-width="1px" fill="none"/>
+   <g>
+    <circle id="path17044-3-4" stroke="#000" cy="624.98" cx="309.02" r="8.5863" fill="#f9f9f9"/>
+    <circle id="circle17046-1-7" cx="309.02" stroke="#000" cy="581.38" r="8.5863" fill="#f9f9f9"/>
+    <text id="text17090-43-7" style="word-spacing:0px;letter-spacing:0px" font-size="11.25px" font-stretch="condensed" line-height="125%" y="447.19409" x="293.47824" font-family="&apos;Myriad Pro&apos;" xml:space="preserve" fill="#000000"><tspan id="tspan17092-0-2" y="447.19409" x="293.47824">feature 1</tspan></text>
+   </g>
+   <g stroke="#000" stroke-dasharray="0.90989775, 1.81979551" stroke-width=".90990" fill="none">
+    <path id="path4413-1-2-6-8-3-2" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-6)" d="m296.65 580.99-47.009 1.0577"/>
+    <path id="path4413-1-2-6-8-3-2-3" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-6-5)" d="m196.11 579.4-26.295 1.0577"/>
+    <path id="path4413-1-2-6-8-3-2-3-3" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-6-5-8)" d="m111.68 581.54-27.724 0.34342"/>
+   </g>
+  </g>
+  <g id="g17235-3-3" transform="translate(-31.593 46.777)">
+   <path id="path4413-1-2-6-8-4-3" marker-end="url(#Arrow2Lend-8-0-0-7-7-6)" d="m386.83 549.23-0.2841-129.99" stroke="#000" stroke-width="1px" fill="none"/>
+   <g>
+    <circle id="circle17046-1-7-2" cx="386.46" cy="549.05" r="8.5863"/>
+    <circle id="circle17048-5-7-5" cy="505.45" cx="386.46" r="8.5863"/>
+    <circle id="circle17050-6-3-8" cx="386.46" cy="461.84" r="8.5863"/>
+   </g>
+   <text id="text17090-43-7-3" style="word-spacing:0px;letter-spacing:0px" font-size="11.25px" font-stretch="condensed" line-height="125%" y="414.8692" x="371.9248" font-family="&apos;Myriad Pro&apos;" xml:space="preserve" fill="#000000"><tspan id="tspan17092-0-2-9" y="414.8692" x="371.9248">feature 2</tspan></text>
+   <path id="path4413-1-2-6-8-3-2-6" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-6-2)" d="m373.35 462.42-119.27 1.7127" stroke="#000" stroke-dasharray="1, 2" fill="none"/>
+   <path id="path4413-1-2-6-8-3-2-6-6" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-6-2-7)" d="m377.35 504.01-119.27 1.7127" stroke="#000" stroke-dasharray="1, 2" fill="none"/>
+  </g>
+  <g stroke="#000" fill="none">
+   <g stroke-dasharray="6, 6">
+    <path id="path4413-1-2-6-8-3-2-3-7" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-1-1)" d="m44.99 712.43c24.857-9.47 154.83 11.3 160.11-94.1"/>
+    <path id="path4413-1-2-6-8-3-2-3-7-5" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-1-1-6)" d="m47.849 718.33c23.537-8.9674 219.91 4.8934 224.86-45.162 0.29458-2.976 3.3374-4.7989 4.3238-7.4296"/>
+    <path id="path4413-1-2-6-8-3-2-3-7-58" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-1-1-9)" d="m47.293 723.66c24.856-9.47 306.61 31.77 308.31-115.78"/>
+   </g>
+   <path id="path4413-1-2-6-8-3-2-6-0" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-6-2-4-9)" d="m166.05 510.83-21.414 0.99839" stroke-dasharray="1, 2"/>
+  </g>
+  <g font-size="11.25px" font-family="&apos;Myriad Pro&apos;" font-stretch="condensed" fill="#000000">
+   <text id="text35593" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="496.77829" x="15.152288"><tspan id="tspan35601" x="15.152288" y="496.77829"/></text>
+   <text id="text36760" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="598.79071" x="169.57144"><tspan id="tspan36762" x="169.57144" y="598.79071">deploy</tspan></text>
+   <text id="text36760-4" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" line-height="125%" y="554.34216" x="107.35257"><tspan id="tspan37257" x="107.35257" y="554.34216">if there are errors:</tspan><tspan id="tspan40602" x="107.35257" y="568.40466">re-deploy master</tspan></text>
+  </g>
+  <g>
+   <circle id="path17044-3-5" cy="594.71" cx="38.16" r="8.5863" fill="#999"/>
+   <text id="text36760-2" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="11.25px" font-stretch="condensed" line-height="125%" y="555.77081" x="169.22371" font-family="&apos;Myriad Pro&apos;" fill="#000000"><tspan id="tspan36762-5" x="169.22371" y="555.77081">deploy</tspan></text>
+   <text id="text36760-4-9" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="11.25px" font-stretch="condensed" line-height="125%" y="597.42914" x="106.46706" font-family="&apos;Myriad Pro&apos;" fill="#000000"><tspan id="tspan36762-9-6" x="106.46706" y="597.42914">if no errors:</tspan><tspan id="tspan37257-3" x="106.46706" y="611.49164">merge to master</tspan></text>
+  </g>
+  <path id="path4413-1-2-6-8-3-2-3-6" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-6-5-9-0)" d="m167.04 551.68-26.295 1.0577" stroke="#000" stroke-dasharray="0.90989775, 1.81979551" stroke-width=".90990" fill="none"/>
+  <path id="path4413-1-2-6-8-3-2-3-6-2" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-6-5-9-3)" d="m78.469 560.25-32.724 26.772" stroke="#000" stroke-dasharray="0.90989775, 1.81979551" stroke-width=".90990" fill="none"/>
+  <text id="text36760-2-9" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="11.25px" font-stretch="condensed" line-height="125%" y="513.62793" x="169.36656" font-family="&apos;Myriad Pro&apos;" fill="#000000"><tspan id="tspan36762-5-8" x="169.36656" y="513.62793">deploy</tspan></text>
+  <path id="path4413-1-2-6-8-3-2-3-3-3" marker-end="url(#Arrow2Lend-8-0-0-7-6-9-6-5-8-3)" d="m88.985 511.51-27.724 0.34342" stroke="#000" stroke-dasharray="0.90989775, 1.81979551" stroke-width=".90990" fill="none"/>
+  <text id="text36760-4-9-6" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="11.25px" font-stretch="condensed" line-height="125%" y="511.14337" x="113.90617" font-family="&apos;Myriad Pro&apos;" fill="#000000"><tspan id="tspan36762-9-6-5" x="113.90617" y="511.14337">if no errors:</tspan><tspan id="tspan37257-3-6" x="113.90617" y="525.20587">merge to master</tspan></text>
+  <text id="text43233" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="11.25px" font-stretch="condensed" line-height="125%" y="496.2193" x="368.85715" font-family="&apos;Myriad Pro&apos;" fill="#000000"><tspan id="tspan43235" x="368.85715" y="496.2193">fix the errors</tspan><tspan id="tspan43237" x="368.85715" y="510.2818">then re-try </tspan><tspan id="tspan43239" x="368.85715" y="524.3443">deployment</tspan></text>
+ </g>
+</svg>

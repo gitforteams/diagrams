@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="7in" width="4.8in" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 432.00002 630.00001">
+ <defs id="defs4">
+  <marker id="Arrow2Lend" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Lend-3" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path4440-7" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke="#000" stroke-width=".625"/>
+  </marker>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -422.36)">
+  <g id="g4380" transform="matrix(.49709 0 0 .49709 240.87 359.53)">
+   <path id="path3350" d="m-364.35 479.38c-38.947-52.583 18.695-131.22 70.162-98.879 16.892 11.957 22.865 64.245 22.865 64.245l-30.778 30.132z" fill-rule="evenodd" stroke="#000" stroke-width=".68521px" fill="#e6e6e6"/>
+   <ellipse id="path3340" rx="30.636" ry="30.078" cy="419.71" cx="-324.58" fill="#fff"/>
+   <path id="path3348" d="m-365.57 544.19s47.496-2.4163 96.98 0.14794l-32.374-95.568c-31.247 18.837-42.606 2.0842-42.606 2.0842z" fill-rule="evenodd" stroke="#000" stroke-width=".42614px" fill="#999"/>
+   <path id="path4156" d="m-360.7 405.89c0.77412 3.1944 2.8528 6.0522 5.6535 7.7726s6.2895 2.2825 9.4888 1.5288c3.3081-0.7793 6.1378-2.8418 8.9889-4.6916 1.4256-0.9249 2.8857-1.8103 4.4515-2.4707 1.5657-0.6604 3.2474-1.0924 4.9467-1.0761 2.565 0.0245 5.018 1.0617 7.2379 2.3469s4.2843 2.8332 6.5524 4.0312c4.1999 2.2183 9.0583 3.1704 13.785 2.7011 4.7265-0.46923 9.3029-2.3579 12.985-5.3587-1.1799-8.6269-5.4424-16.8-11.841-22.705-6.3989-5.905-14.887-9.4986-23.581-9.9832-8.5828-0.47843-17.304 2.0741-24.275 7.1045-6.9706 5.0304-12.141 12.503-14.392 20.8z" fill-rule="evenodd" fill="#e6e6e6"/>
+   <ellipse id="path4185" rx="3.1239" ry="2.7903" cy="418.16" cx="-332.45" fill="#2b0000"/>
+   <path id="path4250" d="m-335.63 424.55s2.308 10.064 8.9157 10.479c6.7604 0.4246 12.771-9.3463 12.771-9.3463" stroke="#000" stroke-width=".36574px" fill="none"/>
+   <ellipse id="path4185-0" rx="3.1239" ry="2.7903" cy="418.08" cx="-319.64" fill="#2b0000"/>
+   <path id="path4250-5" d="m-331.16 422.23s0.81097 3.3534 3.1328 3.4917c2.3755 0.14147 4.4875-3.1142 4.4875-3.1142" stroke="#000" stroke-width=".12514px" fill="none"/>
+  </g>
+  <g id="g4390" transform="matrix(.47991 0 0 .47991 416.52 358.73)">
+   <ellipse id="path3340-7" rx="38.717" ry="38.012" cy="432.08" cx="-157.33" fill="#b3b3b3"/>
+   <path id="path3348-0" d="m-202.83 555.34s47.511-2.1604 97.009 0.13227l-23.76-89.299c-31.257 16.841-55.555 0.57871-55.555 0.57871z" fill-rule="evenodd" stroke="#000" stroke-width="0.403px" fill="#999"/>
+   <path id="path4156-3" d="m-192.64 412.65c4.6245 2.9273 9.5293 5.4117 14.625 7.4082 5.8448 2.2898 12.183 3.9519 18.37 2.8917 4.4238-0.75799 8.4846-2.8565 12.709-4.3734 8.2332-2.9564 17.251-3.6946 25.855-2.1166-2.4646-7.1877-7.1041-13.614-13.151-18.215-6.0469-4.6014-13.477-7.3599-21.062-7.8192-7.6784-0.46502-15.484 1.4298-22.094 5.3636-6.6106 3.9338-11.999 9.8903-15.252 16.861z" fill-rule="evenodd" fill="#333"/>
+   <ellipse id="path4185-1" rx="3.9479" ry="3.5263" cy="430.13" cx="-167.26" fill="#2b0000"/>
+   <path id="path4250-6" d="m-171.29 438.2s2.9168 12.719 11.267 13.243c8.5437 0.5366 16.14-11.812 16.14-11.812" stroke="#000" stroke-width=".46221px" fill="none"/>
+   <ellipse id="path4185-0-8" rx="3.9479" ry="3.5263" cy="430.02" cx="-151.08" fill="#2b0000"/>
+   <path id="path4250-5-9" d="m-165.64 435.27s1.0249 4.2379 3.9592 4.4127c3.0021 0.17879 5.6712-3.9356 5.6712-3.9356" stroke="#000" stroke-width=".15815px" fill="none"/>
+  </g>
+  <g id="g3505" transform="translate(.71429 -59.286)">
+   <ellipse id="path4337" rx="45" ry="46.071" cy="554.15" cx="212.14" fill="#e6e6e6"/>
+   <text id="text4401" style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="11.25px" font-stretch="condensed" y="554.16412" x="185.022" font-family="&apos;Myriad Pro&apos;" xml:space="preserve" fill="#000000"><tspan id="tspan4403" y="554.16412" x="185.022">Centralized Code</tspan><tspan id="tspan4405" y="568.22662" x="185.022">Hosting System</tspan></text>
+  </g>
+  <path id="path4413" marker-end="url(#Arrow2Lend)" d="m99.731 546.25c1.269-19.77 6.329-38.56 52.479-46.77" stroke="#000" stroke-width="1px" fill="none"/>
+  <path id="path4413-0" marker-end="url(#Arrow2Lend-3)" d="m268.95 498.84c18.616-2.2957 37.005-1.0988 53.039 36.24 0.89869 2.0928 1.79 4.2991 2.6735 6.6248" stroke="#000" stroke-width="1px" fill="none"/>
+  <g font-size="14.168px" font-family="Sans" fill="#000000">
+   <text id="text4401-0" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="546.70178" x="106.38446" line-height="125%"><tspan id="tspan4405-2" font-size="11.25px" font-stretch="condensed" y="546.70178" x="106.38446" font-family="&apos;Myriad Pro&apos;">commit</tspan></text>
+   <text id="text4401-0-3" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="544.7868" x="281.60956" line-height="125%"><tspan id="tspan4405-2-2" font-size="11.25px" font-stretch="condensed" y="544.7868" x="281.60956" font-family="&apos;Myriad Pro&apos;">checkout</tspan></text>
+   <text id="text4401-0-7" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="484.5954" x="111.6045" line-height="125%"><tspan id="tspan4405-2-4" font-size="11.25px" font-stretch="condensed" y="484.5954" x="111.6045" font-family="&apos;Myriad Pro&apos;">upload work</tspan></text>
+   <text id="text4401-0-7-7" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" y="484.46039" x="265.81226" line-height="125%"><tspan id="tspan4405-2-4-5" font-size="11.25px" font-stretch="condensed" y="484.46039" x="265.81226" font-family="&apos;Myriad Pro&apos;">download work</tspan></text>
+  </g>
+ </g>
+</svg>

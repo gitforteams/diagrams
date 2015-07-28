@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="7in"
+   width="4.8in"
+   version="1.1"
+   viewBox="0 0 432.00002 630.00001"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="02fig06-forking-pull-request.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1408"
+     inkscape:window-height="855"
+     id="namedview3433"
+     showgrid="false"
+     inkscape:zoom="1.0936508"
+     inkscape:cx="216.00001"
+     inkscape:cy="278.42525"
+     inkscape:window-x="32"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <marker
+       id="Arrow2Lend"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         fill-rule="evenodd"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+    <marker
+       id="Arrow2Lend-3"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440-7"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         fill-rule="evenodd"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+    <marker
+       id="Arrow2Lend-8-0"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440-4-5"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         fill-rule="evenodd"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+    <marker
+       id="Arrow2Lend-8-0-6"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440-4-5-7"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         fill-rule="evenodd"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+    <marker
+       id="Arrow2Lend-3-3"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440-7-2"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         stroke-opacity=".63462"
+         fill-rule="evenodd"
+         fill-opacity=".63462"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+    <marker
+       id="Arrow2Lend-3-3-3"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path4440-7-2-1"
+         stroke-linejoin="round"
+         d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z"
+         stroke-opacity=".63462"
+         fill-rule="evenodd"
+         fill-opacity=".63462"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         stroke="#000"
+         stroke-width=".625" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0 -422.36)">
+    <g
+       id="g3505"
+       transform="translate(.71429 -59.286)">
+      <ellipse
+         id="path4337"
+         rx="168.24"
+         ry="106.68"
+         cy="609.71"
+         cx="216.18"
+         fill="#e6e6e6" />
+      <text
+         id="text4401"
+         style="word-spacing:0px;letter-spacing:0px"
+         line-height="125%"
+         font-size="14.168px"
+         y="536.99152"
+         x="167.84941"
+         font-family="Sans"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan4405"
+           font-size="11.25px"
+           font-stretch="condensed"
+           y="536.99152"
+           x="167.84941"
+           font-family="'Myriad Pro'">GitHub</tspan></text>
+    </g>
+    <path
+       id="path4413"
+       marker-end="url(#Arrow2Lend)"
+       d="m263.85 731.27c-1.5847-34.768-35.379-57.894 21.468-140.84"
+       stroke="#000"
+       stroke-width="1px"
+       fill="none" />
+    <path
+       id="path4413-0"
+       marker-end="url(#Arrow2Lend-3)"
+       d="m345.72 584.7c45.261 52.212 50.901 136.28-7.5677 164.05"
+       stroke="#000"
+       stroke-width="1px"
+       fill="none" />
+    <text
+       id="text4401-0"
+       style="word-spacing:0px;letter-spacing:0px"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="677.09192"
+       x="233.58318"
+       font-family="Sans"
+       line-height="125%"
+       fill="#000000"><tspan
+         id="tspan4405-2"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="677.09192"
+         x="233.58318"
+         font-family="'Myriad Pro'">push</tspan></text>
+    <text
+       id="text4401-0-3"
+       style="word-spacing:0px;letter-spacing:0px"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="636.96448"
+       x="375.95114"
+       font-family="Sans"
+       line-height="125%"
+       fill="#000000"><tspan
+         id="tspan4405-2-2"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="636.96448"
+         x="375.95114"
+         font-family="'Myriad Pro'">clone</tspan></text>
+    <g
+       id="g3505-4"
+       transform="translate(65.775 156.43)">
+      <g
+         id="g8253"
+         transform="translate(25.254 -147.48)">
+        <ellipse
+           id="path4337-3"
+           rx="43.724"
+           ry="26.071"
+           cy="550.11"
+           cx="210.12"
+           fill="#fff" />
+        <text
+           id="text4401-3"
+           style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+           xml:space="preserve"
+           font-size="11.25px"
+           font-stretch="condensed"
+           y="545.85809"
+           x="209.59386"
+           font-family="'Myriad Pro'"
+           line-height="125%"
+           fill="#000000"><tspan
+             id="tspan12545"
+             style="text-anchor:middle;text-align:center"
+             y="545.85809"
+             x="209.59386">personal, forked copy</tspan><tspan
+             id="tspan12549"
+             style="text-anchor:middle;text-align:center"
+             y="559.92059"
+             x="209.59386">of reveal.js repository</tspan></text>
+      </g>
+    </g>
+    <path
+       id="path4413-1-2"
+       marker-end="url(#Arrow2Lend-8-0)"
+       d="m169.38 787.52s45.654 18.669 97.036-9.4621"
+       stroke="#000"
+       stroke-width="1px"
+       fill="none" />
+    <text
+       id="text4401-0-5"
+       style="word-spacing:0px;letter-spacing:0px"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="736.56635"
+       x="186.39139"
+       font-family="Sans"
+       line-height="125%"
+       fill="#000000"><tspan
+         id="tspan4405-2-6"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="736.56635"
+         x="186.39139"
+         font-family="'Myriad Pro'">checkout</tspan></text>
+    <path
+       id="path4413-1-2-8"
+       marker-end="url(#Arrow2Lend-8-0-6)"
+       d="m249.63 743.59c-20.452-9.9062-57.435-4.3032-75.228 13.04"
+       stroke="#000"
+       stroke-width="1px"
+       fill="none" />
+    <path
+       id="path4413-0-4"
+       marker-end="url(#Arrow2Lend-3-3)"
+       d="m259.19 587.64c-33.08 39.42-104.94 45.32-137.77-1.03"
+       stroke-opacity=".63462"
+       stroke="#000"
+       stroke-dasharray="2, 2"
+       fill="none" />
+    <text
+       id="text4401-0-9-0"
+       style="word-spacing:0px;letter-spacing:0px;text-anchor:end;text-align:end"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="515.81433"
+       x="281.83688"
+       font-family="Sans"
+       line-height="125%"
+       fill="#000000"><tspan
+         id="tspan5486"
+         style="text-anchor:end;text-align:end"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="515.81433"
+         x="281.83688"
+         font-family="'Myriad Pro'">fork</tspan></text>
+    <text
+       id="text4401-0-9-4"
+       style="word-spacing:0px;letter-spacing:0px"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="815.28827"
+       x="212.72369"
+       font-family="Sans"
+       line-height="125%"
+       fill="#000000"><tspan
+         id="tspan4405-2-1-3"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="815.28827"
+         x="212.72369"
+         font-family="'Myriad Pro'">commit</tspan></text>
+    <path
+       id="path4413-0-4-1"
+       marker-end="url(#Arrow2Lend-3-3-3)"
+       d="m145.6 528.51s115.98-39.55 139.15 2.9542"
+       stroke-opacity=".63462"
+       stroke="#000"
+       stroke-dasharray="2, 2"
+       fill="none" />
+    <text
+       id="text6524"
+       style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+       xml:space="preserve"
+       font-size="11.25px"
+       font-stretch="condensed"
+       line-height="125%"
+       y="630.11987"
+       x="165.09796"
+       font-family="'Myriad Pro'"
+       fill="#000000"><tspan
+         id="tspan6528"
+         x="165.09796"
+         y="630.11987">pull request</tspan></text>
+    <g
+       id="g10029"
+       transform="translate(-1.0102 -27.274)">
+      <ellipse
+         id="path4337-3-6"
+         rx="42.714"
+         ry="26.071"
+         cy="583.65"
+         cx="128.29"
+         fill="#fff" />
+      <text
+         id="text10025"
+         style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+         font-size="11.25px"
+         font-stretch="condensed"
+         line-height="125%"
+         y="579.67169"
+         x="126.70488"
+         font-family="'Myriad Pro'"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan10027"
+           y="579.67169"
+           x="126.70488">reveal.js</tspan><tspan
+           id="tspan12539"
+           y="593.73419"
+           x="126.70488">official repository</tspan></text>
+    </g>
+    <g
+       id="g3505-4-7"
+       transform="translate(57.568 351.74)">
+      <g
+         id="g8253-0"
+         transform="translate(25.254 -147.48)">
+        <ellipse
+           id="path4337-3-2"
+           rx="43.724"
+           ry="26.071"
+           cy="550.11"
+           cx="210.12"
+           fill="#e6e6e6" />
+        <text
+           id="text4401-3-3"
+           style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+           xml:space="preserve"
+           font-size="11.25px"
+           font-stretch="condensed"
+           y="545.85809"
+           x="209.59386"
+           font-family="'Myriad Pro'"
+           line-height="125%"
+           fill="#000000"><tspan
+             id="tspan12545-0"
+             style="text-anchor:middle;text-align:center"
+             y="545.85809"
+             x="209.59386">local clone</tspan><tspan
+             id="tspan12549-0"
+             style="text-anchor:middle;text-align:center"
+             y="559.92059"
+             x="209.59386">of reveal.js repository</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4380"
+       transform="matrix(.49709 0 0 .49709 302.93 537.52)">
+      <path
+         id="path3350"
+         d="m-351.21 442.83c-31.082-35.991 12.765-81.19 53.838-59.057 13.481 8.1844 22.012 28.556 18.248 43.973-2.5361 10.386-13.067 17.032-13.067 17.032z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width=".50642px"
+         fill="#b3b3b3" />
+      <ellipse
+         id="path3340"
+         rx="30.636"
+         ry="30.078"
+         cy="419.71"
+         cx="-324.58"
+         fill="#f9f9f9" />
+      <path
+         id="path3348"
+         d="m-365.57 544.19s47.496-2.4163 96.98 0.14794l-34.53-99.161c-21.188 20.992-40.45 1.3658-40.45 1.3658z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width=".42614px"
+         fill="#e6e6e6" />
+      <ellipse
+         id="path4185"
+         rx="3.1239"
+         ry="2.7903"
+         cy="418.16"
+         cx="-332.45"
+         fill="#2b0000" />
+      <path
+         id="path4250"
+         d="m-335.63 424.55s2.308 10.064 8.9157 10.479c6.7604 0.4246 12.771-9.3463 12.771-9.3463"
+         stroke="#000"
+         stroke-width=".36574px"
+         fill="none" />
+      <ellipse
+         id="path4185-0"
+         rx="3.1239"
+         ry="2.7903"
+         cy="418.08"
+         cx="-319.64"
+         fill="#2b0000" />
+      <path
+         id="path4250-5"
+         d="m-331.16 422.23s0.81097 3.3534 3.1328 3.4917c2.3755 0.14147 4.4875-3.1142 4.4875-3.1142"
+         stroke="#000"
+         stroke-width=".12514px"
+         fill="none" />
+      <g
+         id="g13331"
+         fill-rule="evenodd"
+         fill="#b3b3b3">
+        <path
+           id="path4156"
+           d="m-357.1 410.2c14.706-4.7599 31.355-3.148 44.875 4.3443 9.1942 5.0954 16.919 12.808 22.03 21.993 5.1-7.8489 7.03-17.696 5.2704-26.889-1.7597-9.1934-7.1895-17.631-14.828-23.042-5.0231-3.5584-10.955-5.8228-17.071-6.517-6.1165-0.69422-12.405 0.18326-18.098 2.5254-5.6928 2.3421-10.778 6.1439-14.635 10.941-3.8571 4.7975-6.478 10.581-7.5428 16.644z" />
+        <path
+           id="path13324"
+           d="m-354.64 408.03c2.0227 6.7061 3.6409 6.8585 3.6409 6.8585l1.2136-6.7061 4.0455 4.2675 2.0228-5.944z" />
+      </g>
+    </g>
+    <rect
+       id="rect13211"
+       stroke-opacity=".63462"
+       height="8.5863"
+       width="8.5863"
+       stroke="#000"
+       y="624.06"
+       x="17.93"
+       fill="none" />
+    <rect
+       id="rect13261"
+       stroke-opacity=".63462"
+       height="8.5863"
+       width="8.5863"
+       stroke="#000"
+       y="638.2"
+       x="17.93"
+       fill="none" />
+    <text
+       id="text13263"
+       style="word-spacing:0px;letter-spacing:0px"
+       xml:space="preserve"
+       font-size="11.25px"
+       font-stretch="condensed"
+       line-height="125%"
+       y="631.63361"
+       x="30.809654"
+       font-family="'Myriad Pro'"
+       fill="#000000"><tspan
+         id="tspan13265"
+         x="30.809654"
+         y="631.63361">forked the project</tspan><tspan
+         id="tspan13267"
+         x="30.809654"
+         y="645.69611">cloned the remote</tspan><tspan
+         id="tspan13269"
+         x="30.809654"
+         y="659.75861">created a new local branch</tspan><tspan
+         id="tspan13271"
+         x="30.809654"
+         y="673.82111">checked out the new branch</tspan><tspan
+         id="tspan13273"
+         x="30.809654"
+         y="687.88361">edited files to match OSCON CSS</tspan><tspan
+         id="tspan13275"
+         x="30.809654"
+         y="701.94611">committed new CSS changes</tspan><tspan
+         id="tspan13277"
+         x="30.809654"
+         y="716.00861">pushed branch to cloned remote</tspan><tspan
+         id="tspan13279"
+         x="30.809654"
+         y="730.07111">submitted a pull request</tspan></text>
+    <g
+       stroke="#000"
+       fill="none"
+       id="g3413">
+      <g
+         stroke-opacity=".63462"
+         id="g3415">
+        <rect
+           id="rect13283"
+           height="8.5863"
+           width="8.5863"
+           y="651.33"
+           x="17.93" />
+        <rect
+           id="rect13285"
+           height="8.5863"
+           width="8.5863"
+           y="665.98"
+           x="17.93" />
+        <rect
+           id="rect13287"
+           height="8.5863"
+           width="8.5863"
+           y="680.12"
+           x="17.93" />
+        <rect
+           id="rect13289"
+           height="8.5863"
+           width="8.5863"
+           y="694.77"
+           x="17.93" />
+        <rect
+           id="rect13291"
+           height="8.5863"
+           width="8.5863"
+           y="708.91"
+           x="17.93" />
+        <rect
+           id="rect13293"
+           height="8.5863"
+           width="8.5863"
+           y="722.55"
+           x="17.93" />
+      </g>
+      <g
+         stroke-width=".44339px"
+         id="g3423">
+        <path
+           id="path13297"
+           d="m19.231 628.06 1.8427 2.8435 4.2119-6.0823" />
+        <path
+           id="path13308"
+           d="m19.231 726.55 1.8427 2.8435 4.2119-6.0823" />
+        <path
+           id="path13310"
+           d="m19.231 713.41 1.8427 2.8435 4.2119-6.0823" />
+        <path
+           id="path13312"
+           d="m19.231 698.77 1.8427 2.8435 4.2119-6.0823" />
+        <path
+           id="path13314"
+           d="m19.231 684.12 1.8427 2.8435 4.2119-6.0823" />
+        <path
+           id="path13316"
+           d="m19.231 669.98 1.8427 2.8435 4.2119-6.0823" />
+        <path
+           id="path13318"
+           d="m19.231 655.33 1.8427 2.8435 4.2119-6.0823" />
+        <path
+           id="path13322"
+           d="m19.231 642.2 1.8427 2.8435 4.2119-6.0823" />
+      </g>
+    </g>
+  </g>
+</svg>

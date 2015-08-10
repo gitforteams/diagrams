@@ -1870,15 +1870,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="298.20425"
-     inkscape:cy="654.06477"
+     inkscape:zoom="1.4"
+     inkscape:cx="217.14629"
+     inkscape:cy="391.42511"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1335"
-     inkscape:window-height="618"
-     inkscape:window-x="88"
+     inkscape:window-width="779"
+     inkscape:window-height="853"
+     inkscape:window-x="41"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in"
@@ -1905,13 +1905,13 @@
        id="g4410"
        transform="translate(-22.158447,-114.26724)">
       <rect
-         transform="matrix(0.77896099,-0.62707239,0.77896099,0.62707239,0,0)"
-         y="590.38794"
-         x="-345.82217"
-         height="70.848755"
-         width="71.165466"
+         transform="matrix(0.78428818,-0.62039669,0.78428818,0.62039669,0,0)"
+         y="593.95245"
+         x="-351.7572"
+         height="72.165749"
+         width="72.48835"
          id="rect4408"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.11093938;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.13159049;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          sodipodi:linespacing="125%"
          id="text4400"
@@ -2195,15 +2195,17 @@
          y="559.96558">yes</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="429.84738"
        y="622.68188"
        id="text4759"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4761"
-         x="377.57144"
-         y="622.68188">reset &lt;last_correct_commit&gt;</tspan></text>
+         x="429.84738"
+         y="622.68188">reset <tspan
+   style="font-style:italic"
+   id="tspan4810">&lt;last_correct_commit&gt;</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2214,7 +2216,9 @@
          sodipodi:role="line"
          x="429.84738"
          y="634.81604"
-         id="tspan4860">merge &lt;branch_with_good_commits&gt;</tspan></text>
+         id="tspan4860">merge <tspan
+   style="font-style:italic"
+   id="tspan4812">&lt;branch_with_good_commits&gt;</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2225,10 +2229,12 @@
          sodipodi:role="line"
          id="tspan5100"
          x="59.65992"
-         y="772.02448">checkout &lt;branch_to_fix&gt;</tspan></text>
+         y="772.02448">checkout <tspan
+   style="font-style:italic"
+   id="tspan4824">&lt;branch_to_fix&gt;</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3-00-8-4-2)"
-       d="m 172.15059,743.73722 c 5.10802,29.25254 -46.26545,25.15996 -61.87446,24.54467"
+       d="m 172.15059,743.73722 c -5.60627,29.25254 -46.26545,25.15996 -61.87446,24.54467"
        id="path4413-0-2-8-4-61"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -2242,7 +2248,9 @@
          sodipodi:role="line"
          id="tspan5140"
          x="238.18365"
-         y="690.72748">checkout &lt;commit_before_bad_merge&gt;</tspan><tspan
+         y="690.72748">checkout <tspan
+   style="font-style:italic"
+   id="tspan4814">&lt;commit_before_bad_merge&gt;</tspan></tspan><tspan
          sodipodi:role="line"
          x="238.18365"
          y="704.78998"
@@ -2250,11 +2258,15 @@
          sodipodi:role="line"
          x="238.18365"
          y="718.85248"
-         id="tspan5144">cherry-pick &lt;commit_id_to_save&gt;</tspan><tspan
+         id="tspan5144">cherry-pick <tspan
+   style="font-style:italic"
+   id="tspan4818">&lt;commit_to_save&gt;</tspan></tspan><tspan
          sodipodi:role="line"
          x="238.18365"
          y="732.91498"
-         id="tspan5146">checkout &lt;branch_to_fix&gt;</tspan></text>
+         id="tspan5146">checkout <tspan
+   style="font-style:italic"
+   id="tspan4820">&lt;branch_to_fix&gt;</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-3-0-9-8-9)"
        d="m 266.9046,737.72746 c -15.85852,80.88581 195.4366,23.93973 134.95915,-99.38262"

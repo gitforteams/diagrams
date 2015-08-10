@@ -1952,13 +1952,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="281.48422"
-     inkscape:cy="289.09148"
+     inkscape:cy="89.09148"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1335"
      inkscape:window-height="618"
-     inkscape:window-x="528"
+     inkscape:window-x="70"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in"
@@ -2145,7 +2145,9 @@
          sodipodi:role="line"
          id="tspan4554"
          x="48.42857"
-         y="685.93353">checkout -- &lt;filename&gt;</tspan></text>
+         y="685.93353">checkout -- <tspan
+   style="font-style:italic"
+   id="tspan4906">&lt;filename&gt;</tspan></tspan></text>
     <g
        id="g4410-4-5"
        transform="translate(-109.21435,119.28568)">
@@ -2232,7 +2234,9 @@
          sodipodi:role="line"
          id="tspan4641"
          x="157.57143"
-         y="807.36212">reset &lt;filename&gt;</tspan></text>
+         y="807.36212">reset <tspan
+   style="font-style:italic"
+   id="tspan4908">&lt;filename&gt;</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-8-9)"
        d="M 146.83373,810.50338 C -3.648368,887.0881 3.2714994,716.3214 10.059901,692.31497"
@@ -2314,7 +2318,9 @@
          sodipodi:role="line"
          id="tspan4761"
          x="391.57144"
-         y="690.36212">revert &lt;commit_id&gt;</tspan></text>
+         y="690.36212">revert <tspan
+   style="font-style:italic"
+   id="tspan4916">&lt;commit&gt;</tspan></tspan></text>
     <g
        id="g4410-0-8"
        transform="translate(24.785647,120.14286)">
@@ -2468,7 +2474,9 @@
          sodipodi:role="line"
          id="tspan4955"
          x="166.85715"
-         y="910.79071">rebase --interactive &lt;commit_id&gt;</tspan></text>
+         y="910.79071">rebase --interactive <tspan
+   style="font-style:italic"
+   id="tspan4910">&lt;commit&gt;</tspan></tspan></text>
     <g
        id="g4410-0-8-7-4"
        transform="translate(66.428484,344.14285)">
@@ -2545,7 +2553,9 @@
          sodipodi:role="line"
          id="tspan5044"
          x="228.57141"
-         y="1016.5049">reset --hard &lt;commit_id&gt;</tspan></text>
+         y="1016.5049">reset --hard <tspan
+   style="font-style:italic"
+   id="tspan4912">&lt;commit&gt;</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2556,6 +2566,8 @@
          sodipodi:role="line"
          id="tspan5048"
          x="371.57144"
-         y="1019.3621">reset &lt;commit_id&gt;</tspan></text>
+         y="1019.3621">reset <tspan
+   style="font-style:italic"
+   id="tspan4914">&lt;commit&gt;</tspan></tspan></text>
   </g>
 </svg>

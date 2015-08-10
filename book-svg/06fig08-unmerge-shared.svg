@@ -30,12 +30,12 @@
      id="namedview4305"
      showgrid="false"
      inkscape:zoom="2.1873016"
-     inkscape:cx="197.71264"
-     inkscape:cy="571.02322"
-     inkscape:window-x="87"
+     inkscape:cx="210.52915"
+     inkscape:cy="440.19019"
+     inkscape:window-x="57"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g4279" />
   <defs
      id="defs4">
     <marker
@@ -148,13 +148,13 @@
          font-size="11.25px"
          font-stretch="condensed"
          line-height="125%"
-         y="589.13336"
-         x="247.14285"
+         y="588.67615"
+         x="245.7713"
          xml:space="preserve"
          sodipodi:linespacing="125%"><tspan
            id="tspan5079"
-           y="589.13336"
-           x="247.14285">Is there a merge commit?</tspan></text>
+           y="588.67615"
+           x="245.7713">Is there a merge commit?</tspan></text>
     </g>
     <path
        id="path4413-0-4"
@@ -165,11 +165,10 @@
        fill="none" />
     <path
        id="path4413-0-2"
-       marker-end="url(#Arrow2Lend-3-00)"
-       d="m280.99 472.63c67.395-5.9254 67.465 4.5008 66.308 21.56-0.16185 2.3862 0.94257 4.8822 1.3806 7.6379"
-       stroke="#000"
-       stroke-width="1px"
-       fill="none" />
+       d="m 280.59087,472.63 c 76.76776,-5.40367 64.08975,2.72493 58.08773,30.11227"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend-3-00)"
+       sodipodi:nodetypes="cc" />
     <text
        id="text4447"
        style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
@@ -200,18 +199,16 @@
          y="466.9523">yes</tspan></text>
     <path
        id="path4413-0-4-0"
-       marker-end="url(#Arrow2Lend-3-0-9)"
-       d="m78.341 597.11c-58.963 2.19-54.532 8.97-60.713 47.86"
-       stroke="#000"
-       stroke-width="1px"
-       fill="none" />
+       d="M 78.341,597.11 C 18.920816,599.3 5.0644433,583.67797 17.628,644.97"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend-3-0-9)"
+       sodipodi:nodetypes="cc" />
     <path
        id="path4413-0-2-8"
-       marker-end="url(#Arrow2Lend-3-00-8)"
-       d="m111.05 597.82c57.636-4.0825 32.021 90.315 29.039 107.38"
-       stroke="#000"
-       stroke-width="1px"
-       fill="none" />
+       d="m 111.05,597.82 c 57.636,-4.0825 83.68283,-10.26555 57.84161,108.29437"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend-3-00-8)"
+       sodipodi:nodetypes="cc" />
     <g
        font-size="11.25px"
        font-family="'Myriad Pro'"
@@ -220,68 +217,98 @@
        id="g4279">
       <text
          id="text4447-0"
-         style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+         style="line-height:125%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
          xml:space="preserve"
          line-height="125%"
-         y="594.81055"
-         x="46.040562"><tspan
+         y="593.05695"
+         x="46.040562"
+         sodipodi:linespacing="125%"><tspan
            id="tspan4449-4"
            x="46.040562"
-           y="594.81055">no</tspan></text>
+           y="593.05695">no</tspan></text>
       <text
          id="text4451-8"
-         style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+         style="line-height:125%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
          xml:space="preserve"
          line-height="125%"
-         y="598.086"
-         x="139.78777"><tspan
+         y="593.05695"
+         x="150.47427"
+         sodipodi:linespacing="125%"><tspan
            id="tspan4453-7"
-           x="139.78777"
-           y="598.086">yes</tspan></text>
+           x="150.47427"
+           y="593.05695">yes</tspan></text>
       <text
          id="text4552"
-         style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+         style="line-height:125%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
          xml:space="preserve"
          line-height="125%"
          y="656.65942"
-         x="56.42857"><tspan
+         x="34.42857"
+         sodipodi:linespacing="125%"><tspan
            id="tspan4554"
-           x="56.42857"
-           y="656.65942">revert &lt;each_bad_commit&gt;</tspan></text>
+           x="34.42857"
+           y="656.65942">revert <tspan
+   style="font-style:italic"
+   id="tspan4328">&lt;commit&gt;</tspan></tspan></text>
       <text
          id="text4451-8-0"
-         style="word-spacing:0px;letter-spacing:0px"
+         style="line-height:125%;letter-spacing:0px;word-spacing:0px"
          xml:space="preserve"
          line-height="125%"
          y="715.62213"
-         x="6.9727502"><tspan
+         x="6.9727502"
+         sodipodi:linespacing="125%"><tspan
            id="tspan4453-7-5"
            x="106.59976"
-           y="715.62213">revert --no-commit &lt;commit_keep&gt;..&lt;commit_reject&gt;</tspan><tspan
-           id="tspan5248"
-           x="106.59976"
-           y="729.68463">add &lt;files&gt;</tspan><tspan
-           id="tspan5250"
-           x="106.59976"
-           y="743.74713">commit</tspan></text>
+           y="715.62213" /></text>
       <text
          id="text5197"
-         style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+         style="line-height:125%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
          xml:space="preserve"
          line-height="125%"
-         y="512.94067"
-         x="101.01525"><tspan
+         y="512.48346"
+         x="97.814964"
+         sodipodi:linespacing="125%"><tspan
            id="tspan5199"
-           x="101.01525"
-           y="512.94067">branch --contains &lt;commit_to_remove&gt;</tspan></text>
+           x="97.814964"
+           y="512.48346">branch --contains <tspan
+   style="font-style:italic"
+   id="tspan4326">&lt;commit&gt;</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="92.730026"
+         y="717.2439"
+         id="text4312"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4314"
+           x="92.730026"
+           y="717.2439"
+           style="text-align:start;text-anchor:start">revert --no-commit <tspan
+   style="font-style:italic"
+   id="tspan4322">&lt;commit_keep&gt;</tspan>..<tspan
+   style="font-style:italic"
+   id="tspan4324">&lt;commit_reject&gt;</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="92.730026"
+           y="731.3064"
+           id="tspan4318"
+           style="text-align:start;text-anchor:start">add <tspan
+   style="font-style:italic"
+   id="tspan4320">&lt;filename(s)&gt;</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="92.730026"
+           y="745.3689"
+           id="tspan4316"
+           style="text-align:start;text-anchor:start">commit</tspan></text>
     </g>
     <path
        id="path4413-0-4-9"
-       marker-end="url(#Arrow2Lend-3-0-2)"
-       d="m92.42 516.46s2.2248 10.304 4.125 34.04"
-       stroke="#000"
-       stroke-width="1px"
-       fill="none" />
+       d="m 92.877184,515.08845 c 0,0 -3.261412,9.84682 4.125,34.04"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend-3-0-2)"
+       sodipodi:nodetypes="cc" />
     <g
        id="g4410-5"
        transform="translate(-142.78 -9.3818)">
@@ -301,53 +328,86 @@
          font-size="11.25px"
          font-stretch="condensed"
          line-height="125%"
-         y="595.17401"
-         x="242.07179"
+         y="594.54559"
+         x="241.61461"
          xml:space="preserve"
          sodipodi:linespacing="125%"><tspan
            id="tspan5079-7"
-           y="595.17401"
-           x="242.07179">Are the commits</tspan><tspan
+           y="594.54559"
+           x="241.61461">Are the commits</tspan><tspan
            id="tspan5246"
-           y="609.23651"
-           x="242.07179">sequential?</tspan></text>
+           y="608.60809"
+           x="241.61461">sequential?</tspan></text>
     </g>
     <text
        id="text5252"
-       style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center"
+       style="font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000"
        xml:space="preserve"
        font-size="11.25px"
        font-stretch="condensed"
        line-height="125%"
        y="513.79071"
-       x="345"
-       font-family="'Myriad Pro'"
-       fill="#000000"><tspan
+       x="326.42194"
+       sodipodi:linespacing="125%"><tspan
          id="tspan5256"
-         x="345"
-         y="513.79071">revert --mainline N &lt;merge_commit_id&gt;</tspan></text>
+         x="326.42194"
+         y="513.79071">revert --mainline <tspan
+   style="font-style:italic"
+   id="tspan4280">N &lt;commit&gt;</tspan></tspan></text>
     <text
        id="text5260"
-       style="word-spacing:0px;letter-spacing:0px;fill:#666666;"
+       style="font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';letter-spacing:0px;word-spacing:0px;fill:#666666"
        xml:space="preserve"
        font-size="11.25px"
        font-stretch="condensed"
        line-height="125%"
        y="530.93353"
        x="270.11502"
-       font-family="'Myriad Pro'"
-       fill="#000000"><tspan
-         id="tspan5262"
-         x="270.11502"
-         y="530.93353"
-         style="fill:#666666;">Typically N = 1.</tspan><tspan
-         id="tspan5264"
-         x="270.11502"
-         y="544.99603"
-         style="fill:#666666;">Check with: git log --oneline --graph</tspan><tspan
-         id="tspan5268"
-         x="270.11502"
-         y="559.05853"
-         style="fill:#666666;">Count branch lanes from right to left to get N.</tspan></text>
+       sodipodi:linespacing="125%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="273.64133"
+       y="530.25549"
+       id="text4288"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4290"
+         x="273.64133"
+         y="530.25549"
+         style="text-align:start;text-anchor:start;fill:#808080">Typically <tspan
+   style="font-style:italic;text-align:start;text-anchor:start;fill:#808080"
+   id="tspan4298">N</tspan> = 1.</tspan><tspan
+         sodipodi:role="line"
+         x="273.64133"
+         y="544.31799"
+         id="tspan4292"
+         style="text-align:start;text-anchor:start;fill:#808080">Check with: git log --oneline --graph</tspan><tspan
+         sodipodi:role="line"
+         x="273.64133"
+         y="558.38049"
+         id="tspan4294"
+         style="text-align:start;text-anchor:start;fill:#808080">Count branch lanes from left to right to get <tspan
+   style="font-style:italic;text-align:start;text-anchor:start;fill:#808080"
+   id="tspan4296">N</tspan>.</tspan><tspan
+         sodipodi:role="line"
+         x="273.64133"
+         y="572.44299"
+         id="tspan4300"
+         style="text-align:start;text-anchor:start;fill:#808080"><tspan
+   style="font-style:italic;text-align:start;text-anchor:start;fill:#808080"
+   id="tspan4302">&lt;commit&gt;</tspan> must be a merge commit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3.8397319"
+       y="669.20062"
+       id="text4288-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="3.8397319"
+         y="669.20062"
+         id="tspan4300-2"
+         style="text-align:start;text-anchor:start;fill:#808080">Repeat for each bad commit.</tspan></text>
   </g>
 </svg>

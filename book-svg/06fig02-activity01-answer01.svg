@@ -342,7 +342,7 @@
          sodipodi:role="line"
          id="tspan5111"
          x="144.7092"
-         y="484.28387">git checkout -- <tspan
+         y="484.28387">git checkout  HEAD -- <tspan
    style="font-style:italic"
    id="tspan4274">&lt;filename&gt;</tspan></tspan></text>
   </g>
